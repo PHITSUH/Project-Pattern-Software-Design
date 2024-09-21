@@ -1,0 +1,775 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joeln\\source\\repos\\PSDProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_JOELN_SOURCE_REPOS_PSDPROJECT_PSDPROJECT_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|c:\\users\\joeln\\source\\repos\\psdproject\\psdproject\\views\\updatemakeupbrand.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\updatemakeupbrand.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\transactionreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\transactionreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\updatemakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\updatemakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\transactionreport.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\transactionreport.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\controller\\makeupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\controller\\makeupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\handler\\makeuphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\handler\\makeuphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\viewtransactionhistory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\viewtransactionhistory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\viewtransactiondetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\viewtransactiondetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\viewtransactionhistory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\viewtransactionhistory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\controller\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\controller\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\updatemakeuptype.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\updatemakeuptype.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\handler\\makeuptypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\handler\\makeuptypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\controller\\makeuptypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\controller\\makeuptypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\repository\\makeupbrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\repository\\makeupbrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\handler\\makeupbrandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\handler\\makeupbrandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\controller\\makeupbrandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\controller\\makeupbrandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\orderqueue.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\orderqueue.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\ordermakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\ordermakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\handler\\carthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\handler\\carthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\controller\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\controller\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\navbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\navbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\managemakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\managemakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\addmakeuptype.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\addmakeuptype.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\addmakeupbrand.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\addmakeupbrand.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\addmakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\addmakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\navbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\navbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\repository\\makeuptyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\repository\\makeuptyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\updatemakeupbrand.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\updatemakeupbrand.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\addmakeupbrand.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\addmakeupbrand.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\factory\\makeupbrandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\factory\\makeupbrandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\managemakeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\managemakeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PSDProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\views\\navbar.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\views\\navbar.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|C:\\Users\\joeln\\source\\repos\\PSDProject\\psdproject\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71552AE8-1835-4DA0-BC4B-098D10BC4E0D}|PSDProject\\PSDProject.csproj|solutionrelative:psdproject\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 146,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionReport.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\TransactionReport.aspx.designer.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\TransactionReport.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\TransactionReport.aspx.designer.cs",
+              "RelativeToolTip": "PSDProject\\Views\\TransactionReport.aspx.designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAvwBUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:16:37.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateMakeup.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\UpdateMakeup.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\UpdateMakeup.aspx.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\UpdateMakeup.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\UpdateMakeup.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:59:30.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MakeupTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Controller\\MakeupTypeController.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Controller\\MakeupTypeController.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Controller\\MakeupTypeController.cs",
+              "RelativeToolTip": "PSDProject\\Controller\\MakeupTypeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:07:42.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Controller\\TransactionController.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Controller\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Controller\\TransactionController.cs",
+              "RelativeToolTip": "PSDProject\\Controller\\TransactionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:27:30.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateMakeupBrand.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\UpdateMakeupBrand.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\UpdateMakeupBrand.aspx.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\UpdateMakeupBrand.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\UpdateMakeupBrand.aspx.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:21:26.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_JOELN_SOURCE_REPOS_PSDPROJECT_PSDPROJECT_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-11T04:02:17.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionReport.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\TransactionReport.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\TransactionReport.aspx.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\TransactionReport.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\TransactionReport.aspx.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:06:49.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MakeupController.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Controller\\MakeupController.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Controller\\MakeupController.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Controller\\MakeupController.cs",
+              "RelativeToolTip": "PSDProject\\Controller\\MakeupController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:59:02.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MakeupHandler.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Handler\\MakeupHandler.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Handler\\MakeupHandler.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Handler\\MakeupHandler.cs",
+              "RelativeToolTip": "PSDProject\\Handler\\MakeupHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:56:47.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateMakeupType.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\UpdateMakeupType.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\UpdateMakeupType.aspx.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\UpdateMakeupType.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\UpdateMakeupType.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:43:24.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewTransactionDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\ViewTransactionDetails.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\ViewTransactionDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\ViewTransactionDetails.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\ViewTransactionDetails.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:45:25.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewTransactionHistory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\ViewTransactionHistory.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\ViewTransactionHistory.aspx.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\ViewTransactionHistory.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\ViewTransactionHistory.aspx.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:46:53.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewTransactionHistory.aspx",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\ViewTransactionHistory.aspx",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\ViewTransactionHistory.aspx",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\ViewTransactionHistory.aspx",
+              "RelativeToolTip": "PSDProject\\Views\\ViewTransactionHistory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-03T05:48:09.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MakeupBrandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Handler\\MakeupBrandHandler.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Handler\\MakeupBrandHandler.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Handler\\MakeupBrandHandler.cs",
+              "RelativeToolTip": "PSDProject\\Handler\\MakeupBrandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:17:01.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MakeupTypeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Handler\\MakeupTypeHandler.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Handler\\MakeupTypeHandler.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Handler\\MakeupTypeHandler.cs",
+              "RelativeToolTip": "PSDProject\\Handler\\MakeupTypeHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:01:34.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MakeupBrandController.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Controller\\MakeupBrandController.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Controller\\MakeupBrandController.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Controller\\MakeupBrandController.cs",
+              "RelativeToolTip": "PSDProject\\Controller\\MakeupBrandController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:09:51.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MakeupBrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Repository\\MakeupBrandRepository.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Repository\\MakeupBrandRepository.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Repository\\MakeupBrandRepository.cs",
+              "RelativeToolTip": "PSDProject\\Repository\\MakeupBrandRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:16:10.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\RegisterPage.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\RegisterPage.aspx.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\RegisterPage.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\RegisterPage.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:55:24.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Controller\\UserController.cs",
+              "RelativeToolTip": "PSDProject\\Controller\\UserController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBEAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:18:50.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Profile.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\Profile.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Profile.aspx.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\Profile.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\Profile.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:30:21.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Handler\\UserHandler.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Handler\\UserHandler.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Handler\\UserHandler.cs",
+              "RelativeToolTip": "PSDProject\\Handler\\UserHandler.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAcwGgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:19:01.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderQueue.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\OrderQueue.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\OrderQueue.aspx.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\OrderQueue.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\OrderQueue.aspx.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:28:42.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderMakeup.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\OrderMakeup.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\OrderMakeup.aspx.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\OrderMakeup.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\OrderMakeup.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:23:48.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CartHandler.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Handler\\CartHandler.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Handler\\CartHandler.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Handler\\CartHandler.cs",
+              "RelativeToolTip": "PSDProject\\Handler\\CartHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:24:49.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Controller\\CartController.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Controller\\CartController.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Controller\\CartController.cs",
+              "RelativeToolTip": "PSDProject\\Controller\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:24:28.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManageMakeup.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\ManageMakeup.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\ManageMakeup.aspx.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\ManageMakeup.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\ManageMakeup.aspx.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T06:20:22.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NavBar.Master.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\NavBar.Master.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\NavBar.Master.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\NavBar.Master.cs",
+              "RelativeToolTip": "PSDProject\\Views\\NavBar.Master.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T04:28:40.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\LoginPage.aspx.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\LoginPage.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\LoginPage.aspx.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:29:31.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomePage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\HomePage.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\HomePage.aspx.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\HomePage.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\HomePage.aspx.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T04:16:22.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddMakeupType.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\AddMakeupType.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\AddMakeupType.aspx.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\AddMakeupType.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\AddMakeupType.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:07:29.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddMakeupBrand.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\AddMakeupBrand.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\AddMakeupBrand.aspx.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\AddMakeupBrand.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\AddMakeupBrand.aspx.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:06:45.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddMakeup.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\AddMakeup.aspx.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\AddMakeup.aspx.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\AddMakeup.aspx.cs",
+              "RelativeToolTip": "PSDProject\\Views\\AddMakeup.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:59:39.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Profile.aspx",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\Profile.aspx",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\Profile.aspx",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\Profile.aspx",
+              "RelativeToolTip": "PSDProject\\Views\\Profile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-23T06:24:57.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RegisterPage.aspx",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\RegisterPage.aspx",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\RegisterPage.aspx",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\RegisterPage.aspx",
+              "RelativeToolTip": "PSDProject\\Views\\RegisterPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-08T06:32:43.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\LoginPage.aspx",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\LoginPage.aspx",
+              "RelativeToolTip": "PSDProject\\Views\\LoginPage.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-08T06:28:17.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "NavBar.Master",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\NavBar.Master",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\NavBar.Master",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\NavBar.Master",
+              "RelativeToolTip": "PSDProject\\Views\\NavBar.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-11T04:14:32.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MakeupTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Repository\\MakeupTypeRepository.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Repository\\MakeupTypeRepository.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Repository\\MakeupTypeRepository.cs",
+              "RelativeToolTip": "PSDProject\\Repository\\MakeupTypeRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:01:20.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "PSDProject\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwCUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:18:37.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateMakeupBrand.aspx",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\UpdateMakeupBrand.aspx",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\UpdateMakeupBrand.aspx",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\UpdateMakeupBrand.aspx",
+              "RelativeToolTip": "PSDProject\\Views\\UpdateMakeupBrand.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-13T16:21:14.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MakeupBrandFactory.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Factory\\MakeupBrandFactory.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Factory\\MakeupBrandFactory.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Factory\\MakeupBrandFactory.cs",
+              "RelativeToolTip": "PSDProject\\Factory\\MakeupBrandFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:18:49.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddMakeupBrand.aspx",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\AddMakeupBrand.aspx",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\AddMakeupBrand.aspx",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\AddMakeupBrand.aspx",
+              "RelativeToolTip": "PSDProject\\Views\\AddMakeupBrand.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-13T16:04:14.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PSDProject",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\PSDProject.csproj",
+              "RelativeDocumentMoniker": "PSDProject\\PSDProject.csproj",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\PSDProject.csproj*",
+              "RelativeToolTip": "PSDProject\\PSDProject.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T14:54:12.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "PSDProject\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:53:21.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ManageMakeup.aspx",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\ManageMakeup.aspx",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\ManageMakeup.aspx",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\ManageMakeup.aspx",
+              "RelativeToolTip": "PSDProject\\Views\\ManageMakeup.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-11T06:19:49.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\HomePage.aspx",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\HomePage.aspx",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\HomePage.aspx",
+              "RelativeToolTip": "PSDProject\\Views\\HomePage.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-11T04:16:20.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "NavBar.Master.designer.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\NavBar.Master.designer.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Views\\NavBar.Master.designer.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Views\\NavBar.Master.designer.cs",
+              "RelativeToolTip": "PSDProject\\Views\\NavBar.Master.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T04:35:59.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserFactory.cs",
+              "DocumentMoniker": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Factory\\UserFactory.cs",
+              "RelativeDocumentMoniker": "PSDProject\\Factory\\UserFactory.cs",
+              "ToolTip": "C:\\Users\\joeln\\source\\repos\\PSDProject\\PSDProject\\Factory\\UserFactory.cs",
+              "RelativeToolTip": "PSDProject\\Factory\\UserFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:57:24.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

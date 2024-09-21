@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="NavBar.Master.cs" Inherits="PSDProject.Views.NavBar" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <ul style="list-style-type: none; padding: 5px;">
+                <li><a href='<%="HomePage.aspx" %>'>Home</a></li>
+                 <li><a href="#" id='A1' runat="server"></a></li>
+                 <li><a href="#" id='A2' runat="server"></a></li>
+                 <li><a href="#" id='A3' runat="server"></a></li>
+                 <li><a href="#" id='A4' runat="server"></a></li>
+                <li><a href="#" id='A5' runat="server"></a></li>
+                <asp:Button ID="logoutButton" runat="server" Text="Button" onclick="logoutButton_Click"/>
+            </ul>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
